@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RimshaSanaullahh
 - 👀 I’m interested in full stack developer.
 - 🌱 I’m currently learning frontend development.
-- 📫 How to reach me rimsha_sanaullah@devscorp.co
+- 📫 How to reach me riimshasanaullah56@gmail.com
 - 😄 she/her
 
 
